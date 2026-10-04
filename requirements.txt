@@ -1,0 +1,6 @@
+streamlit
+pillow
+google-genai
+python-dotenv
+
+#pip install -r requirements.txt
